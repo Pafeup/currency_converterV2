@@ -1,0 +1,16 @@
+.form {
+    max-width: 500px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.form__header {
+    text-align: center;
+}
+
+.form__button {
+    width: 100%;
+}
